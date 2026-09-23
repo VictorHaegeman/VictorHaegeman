@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd-year Engineering student at **EFREI** · prev. CY-TECH · IT Management at **GEM**
+- 🎓 4rd-year Engineering student at **EFREI** · prev. CY-TECH · IT Management at **GEM**
 - 🚀 Co-Founder of **DreamLense** — AI-powered personalized image generation platform
 - 📱 Building **[Barly](https://github.com/VictorHaegeman/Barly)** — bar & event discovery app (Flutter + Node.js + Supabase + Google Maps)
 - 💡 Treasurer & Co-Founder of **TooYoung** — supporting student entrepreneurs across France
